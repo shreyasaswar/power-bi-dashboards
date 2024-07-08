@@ -4,7 +4,7 @@
 
 This Power BI dashboard provides a comprehensive view of HR analytics, focusing on employee attrition and various factors affecting workforce dynamics. The dashboard offers valuable insights to help HR professionals and managers make data-driven decisions.
 
-![HR Analytics Dashboard]()
+![HR Analytics Dashboard](https://github.com/shreyasaswar/power-bi-dashboards/blob/main/HR_report%20_analysis.jpg)
 
 ## Features
 
